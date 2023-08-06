@@ -11,3 +11,5 @@ To start the project you need to use VS code and to do next steps type in the co
 
 Technologies: Html, CSS, JS, React, Json, Bootstrap.
 ![rental2](https://github.com/EvgeniyKrastev/react-rent-car/assets/65820929/53e27ace-559c-4648-b987-d32049aa63b1)
+![cars](https://github.com/EvgeniyKrastev/react-rent-car/assets/65820929/ac3b4a7c-538a-4593-8e6b-f2e9c9835518)
+
