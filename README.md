@@ -10,3 +10,4 @@ To start the project you need to use VS code and to do next steps type in the co
 4 in new console npm run start
 
 Technologies: Html, CSS, JS, React, Json, Bootstrap.
+![rental2](https://github.com/EvgeniyKrastev/react-rent-car/assets/65820929/53e27ace-559c-4648-b987-d32049aa63b1)
