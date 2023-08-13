@@ -5,13 +5,13 @@ Rent a car website where you need to register, and then you can rent one or more
 
 To start the project you need to use VS code and to do next steps type in the console:
 
-1 go to the directory of the project with cd /rental-company
+1. go to the directory of the project with cd /rental-company
 
-2 install sass 
+2. install sass 
 
-3 npm start-json:server
+3. npm start-json:server
 
-4 in new console npm run start
+4. in new console npm run start
 
 Technologies: Html, CSS, JS, React, Json, Bootstrap.
 ![rental2](https://github.com/EvgeniyKrastev/react-rent-car/assets/65820929/53e27ace-559c-4648-b987-d32049aa63b1)
