@@ -1,7 +1,7 @@
 # react-rent-car
 Rent a car App 
 
-Rent a car website where you need to register, and then you can rent one or more cars from the start date to the end date, and the price is automatically calculated. There is a page to see the cars you have rented; every car has details like name, year, price for a day, picture, type, and availability. You can return the cars. And if you are an admin, you can create a car and insert details and a picture for the car. If you aren’t logged in, you can’t do anything or see available cars. The app has validation, and if you don’t have money, you can't rent a car. Also, when you log in, if the email and password are wrong, it shows a message. The data for the clients is stored in JSON files in the project. We use SCSS to make the style load faster and to add more functionality. 
+Rent a car website. Customer must register, log in then can rent or return car. There are pages to see car for rent, rented or car details. Every car has details like name, year, price for a day, picture, type, and availability. The admin can create a car and insert details and a picture for the car. If user is not logged in, it can’t do anything or see available cars. App have Validation for all input data. Data for users is in JSON. SCSS is used for better functionality.
 
 To start the project you need to use VS code and to do next steps type in the console:
 
